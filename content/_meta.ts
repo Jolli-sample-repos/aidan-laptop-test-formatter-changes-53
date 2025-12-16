@@ -1,15 +1,14 @@
 export default {
   'index': { display: 'hidden' },
   'valid-advanced-features': 'Valid - Advanced Features',
-  
   'valid-api-authentication': 'Valid - API Authentication',
   'valid-changelog': 'Valid - Changelog',
   'valid-troubleshooting': 'Valid - Troubleshooting',
-  'valid-configuration-guide': 'Valid - Configuration Guide',
-  'valid-getting-started': 'Valid - Getting Started','api-authentication-guide': 'API Authentication Guide',
+  'valid-configuration-guide': 'Valid - Configuration',
+  'valid-getting-started': 'Valid - Getting Started',
+  'api-authentication-guide': 'API Authentication Guide',
   'advanced-configuration': 'Advanced Configuration',
   'troubleshooting-common-issues': 'Troubleshooting Common Issues',    
-  'api-reference': {
     title: 'API Reference',
     type: 'menu',
     items: {
@@ -18,5 +17,4 @@ export default {
       'valid-jolli-api-json': { title: 'Valid - Jolli API (JSON)', href: '/api-docs/valid-jolli-api-json' },
       'valid-pet-store-api-json': { title: 'Valid - Pet Store API (JSON)', href: '/api-docs/valid-pet-store-api-json' }
     }
-  }
 }
