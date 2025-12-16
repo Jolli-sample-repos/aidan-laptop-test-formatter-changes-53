@@ -1,13 +1,15 @@
 import { redirect, notFound } from 'next/navigation'
 import ApiReference from '../../../components/ApiReference'
 
-const VALID_SLUGS = ['valid-jolli-api-yaml', 'valid-pet-store-api-yaml']
+const VALID_SLUGS = ['valid-jolli-api-yaml', 'valid-pet-store-api-yaml', 'valid-jolli-api-json', 'valid-pet-store-api-json']
 
 export function generateStaticParams() {
   return [
     { slug: [] },
     { slug: ['valid-jolli-api-yaml'] },
-    { slug: ['valid-pet-store-api-yaml'] }
+    { slug: ['valid-pet-store-api-yaml'] },
+    { slug: ['valid-jolli-api-json'] },
+    { slug: ['valid-pet-store-api-json'] }
   ]
 }
 
