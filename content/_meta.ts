@@ -1,16 +1,14 @@
 export default {
   'index': { display: 'hidden' },
   'valid-advanced-features': 'Valid - Advanced Features',
+  
   'valid-api-authentication': 'Valid - API Authentication',
   'valid-changelog': 'Valid - Changelog',
   'valid-troubleshooting': 'Valid - Troubleshooting',
   'valid-configuration-guide': 'Valid - Configuration Guide',
-  'valid-getting-started': 'Valid - Getting Started',
-  'api-authentication-guide': 'API Authentication Guide',
+  'valid-getting-started': 'Valid - Getting Started','api-authentication-guide': 'API Authentication Guide',
   'advanced-configuration': 'Advanced Configuration',
-  'troubleshooting-common-issues': 'Troubleshooting Common Issues',
-  'database-schema-reference': 'Database Schema Reference',
-  'getting-started-tutorial': 'Getting Started Tutorial',
+  'troubleshooting-common-issues': 'Troubleshooting Common Issues',    
   'api-reference': {
     title: 'API Reference',
     type: 'menu',
