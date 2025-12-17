@@ -1,22 +1,16 @@
 export default {
   'index': { display: 'hidden' },
-  'valid-advanced-features': 'Valid - Advanced Features',
-  'valid-api-authentication': 'Valid - API Authentication',
   'valid-changelog': 'Valid - Changelog',
   'valid-troubleshooting': 'Valid - Troubleshooting',
-  'valid-configuration-guide': 'Valid - Configuration',
-  'getting-started-tutorial': 'Getting Started Tutorial',
-  'database-schema-reference': 'Database Schema Reference',
+  'valid-advanced-features': 'Valid - Advanced Features',
+  'valid-api-authentication': 'Valid - API Authentication',
+  'valid-configuration-guide': 'Valid - Configuration Guide',
   'valid-getting-started': 'Valid - Getting Started',
   'api-authentication-guide': 'API Authentication Guide',
-  'troubleshooting-common-issues': 'Troubleshooting Common Issues',
-  'items': {
-    valid-jolli-api-yaml: '[object Object]',
-    valid-pet-store-api-yaml: '[object Object]',
-    valid-jolli-api-json: '[object Object]',
-    valid-pet-store-api-json: '[object Object]'
-  },
   'advanced-configuration': 'Advanced Configuration',
+  'troubleshooting-common-issues': 'Troubleshooting Common Issues',
+  'database-schema-reference': 'Database Schema Reference',
+  'getting-started-tutorial': 'Getting Started Tutorial',
   'api-reference': {
     title: 'API Reference',
     type: 'menu',
