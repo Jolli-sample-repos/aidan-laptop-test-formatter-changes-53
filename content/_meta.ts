@@ -6,7 +6,9 @@ export default {
   "valid-configuration-guide": "Valid - Configuration Guide",
   "valid-getting-started": "Valid - Getting Started",
   "valid-troubleshooting": "Valid Troubleshooting",
+  "getting-started-tutorial": "Getting Started Tutorial",
   "database-schema-reference": "Database Schema Reference",
+  "api-authentication-guide": "Api Authentication Guide",
   "api-reference": {
     title: "API Reference",
     type: "menu",
