@@ -1,12 +1,10 @@
 export default {
   index: { display: "hidden" },
   "valid-changelog": "Valid - Changelog",
+  "advanced-configuration": "Advanced Configuration",
   "valid-advanced-features": "Valid Advanced Features",
   "valid-configuration-guide": "Valid - Configuration Guide",
   "valid-getting-started": "Valid - Getting Started",
-  "api-authentication-guide": "API Authentication Guide",
-  "advanced-configuration": "Advanced Configuration",
-  "troubleshooting-common-issues": "Troubleshooting Common Issues",
   "valid-troubleshooting": "Valid Troubleshooting",
   "database-schema-reference": "Database Schema Reference",
   "api-reference": {
