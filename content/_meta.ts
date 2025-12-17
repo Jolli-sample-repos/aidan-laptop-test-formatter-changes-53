@@ -2,12 +2,16 @@ export default {
   index: { display: "hidden" },
   "valid-advanced-features": "Valid - Advanced Features",
   "valid-api-authentication": "Valid - API Authentication",
-  "valid-changelog": "Valid - Changelog",
+ 
+ 
 
+
+
+ 
+  "valid-changelog": "Valid - Changelog",
   "valid-troubleshooting": "Valid - Troubleshooting",
   "valid-configuration-guide": "Valid - Configuration",
   "getting-started-tutorial": "Getting Started Tutorial",
-
   "database-schema-reference": "Database Schema Reference",
   "valid-getting-started": "Valid - Getting Started",
   "api-authentication-guide": "API Authentication Guide",
