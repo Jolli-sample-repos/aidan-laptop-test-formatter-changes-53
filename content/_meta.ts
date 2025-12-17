@@ -2,12 +2,6 @@ export default {
   index: { display: "hidden" },
   "valid-advanced-features": "Valid - Advanced Features",
   "valid-api-authentication": "Valid - API Authentication",
- 
- 
-
-
-
- 
   "valid-changelog": "Valid - Changelog",
   "valid-troubleshooting": "Valid - Troubleshooting",
   "valid-configuration-guide": "Valid - Configuration",
